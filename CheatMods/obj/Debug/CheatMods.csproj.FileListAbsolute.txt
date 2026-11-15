@@ -1,0 +1,6 @@
+F:\Visual Studio工程\C#\CU_Mods\Dlls\CheatMods\CheatMods\bin\Debug\CheatMods.dll
+F:\Visual Studio工程\C#\CU_Mods\Dlls\CheatMods\CheatMods\bin\Debug\CheatMods.pdb
+F:\Visual Studio工程\C#\CU_Mods\Dlls\CheatMods\CheatMods\obj\Debug\CheatMods.csproj.AssemblyReference.cache
+F:\Visual Studio工程\C#\CU_Mods\Dlls\CheatMods\CheatMods\obj\Debug\CheatMods.csproj.CoreCompileInputs.cache
+F:\Visual Studio工程\C#\CU_Mods\Dlls\CheatMods\CheatMods\obj\Debug\CheatMods.dll
+F:\Visual Studio工程\C#\CU_Mods\Dlls\CheatMods\CheatMods\obj\Debug\CheatMods.pdb
