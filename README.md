@@ -1,6 +1,6 @@
 # ACMods
 
-ACMods is a BepInEx mod for the game *CasualtiesUnknown*, providing assists, challenge difficulty modifiers and debug utility console commands.
+ACMods(Assist/Challenge Mods) is a BepInEx mod for the game *CasualtiesUnknown*, providing assists, challenge difficulty modifiers and debug utility console commands.
 
 ## REQUIREMENTS
 - BepInEx
