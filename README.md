@@ -18,7 +18,7 @@ Using any acmods command will disable achievements. Achievements will be restore
 ## INSTALLATION
 1. Install BepInEx and CUCoreLib first.
 2. Place the compiled ACMods DLL file into your game's BepInEx/plugins folder.
-3. Launch *Casualties*, open the in-game console to use commands.
+3. Launch *CasualtiesUnknown*, open the in-game console to use commands.
 
 ## CONSOLE COMMANDS
 
